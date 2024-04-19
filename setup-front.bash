@@ -12,6 +12,6 @@ apt install git -y
 
 git clone https://github.com/lucasTrswl/Securite_front.git
 
-cd /Securite_front
+cd Securite_front
 
 npm i

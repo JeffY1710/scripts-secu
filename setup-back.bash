@@ -12,6 +12,6 @@ apt install git -y
 
 git clone https://github.com/lucasTrswl/Securite_back.git
 
-cd /Securite_back
+cd Securite_back
 
 npm i
